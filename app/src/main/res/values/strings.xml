@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Qusic</string>
+    <string name="tab_songs">songs</string>
+    <string name="tab_playlist">playlist</string>
+    <string name="tab_artists">artists</string>
+    <string name="tab_albums">albums</string>
+
+</resources>
